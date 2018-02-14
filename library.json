@@ -1,13 +1,13 @@
 {
   "name": "JSONtoSPIFFS",
-  "frameworks": "Arduino",
-  "keywords": "",
+  "version": "1.0.0",
+  "frameworks": "arduino",
+  "platforms": "espressif8266",
+  "keywords": "spiffs, json",
   "description": "Write and load data to SPIFFS in JSON format",
-  "url": "https://github.com/BauerPh/JSONtoSPIFFS",
-  "authors": [
-    {
-      "name": "Bauer Philipp"
-    }
-  ]
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BauerPh/JSONtoSPIFFS"
+  }
 }
 
